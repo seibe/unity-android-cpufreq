@@ -11,6 +11,6 @@ A native plug-in that can acquire the CPU frequency(※) of Android device from 
 ※ `/sys/devices/system/cpu/cpu*/cpufreq/cpuinfo_cur_freq`
 
 ## LICENSE
-Copyright (c) 2017 Seibe TAKAHASHI.
+Copyright (c) 2018 Seibe TAKAHASHI.
 
 This software is released under the MIT License, see [LICENSE](LICENSE).
